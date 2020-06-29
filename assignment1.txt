@@ -1,0 +1,14 @@
+#####Relative and absolute:
+-If an element has position set to "absolute" it will position itself to the closest parent that has 
+positions "absolute". By default, and if no parent has position "absolute" the element with
+will position itself to the body without following the normal flow of the page.
+
+-If an element has position "relative" it will position itself to its nearest parent and it will 
+follow the normal flow of the page without disturbing it.
+
+#####Margin and padding:
+-Every element is contained inside a box made of 4 borders, top right bottom and left. the space between
+the element and the walls of the box is called padding, and the space between the walls of the box and 
+the elements outside the box is called margin.
+
+
